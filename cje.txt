@@ -1,0 +1,9 @@
+total 16
+0 drwxr-xr-x   8 chris.eastwood  429114381   256B 15 May 15:10 ./
+0 drwxr-xr-x  40 chris.eastwood  429114381   1.3K 15 May 14:42 ../
+0 drwxr-xr-x  15 chris.eastwood  429114381   480B 15 May 15:10 .git/
+0 drwxr-xr-x   3 chris.eastwood  429114381    96B 15 May 14:57 .github/
+0 drwxr-xr-x   3 chris.eastwood  429114381    96B 15 May 15:10 PULL_REQUEST_TEMPLATE/
+8 -rw-r--r--   1 chris.eastwood  429114381    15B 15 May 14:42 README.md
+0 -rw-r--r--   1 chris.eastwood  429114381     0B 15 May 15:10 cje.txt
+8 -rw-r--r--   1 chris.eastwood  429114381    12B 15 May 15:10 test.txt
