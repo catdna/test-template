@@ -4,9 +4,11 @@ RCF-xxxx
 
 <!-- Brief description of feature --> 
 
+
 ## How did you implement it:
 
 <!-- For non-trivial change, briefly describe implementation so easy to understand and review code -->
+
 
 ## How can we verify it:
 
@@ -14,9 +16,16 @@ RCF-xxxx
 or 
 (for developer only changes, additional info here) 
 
+
 ## Code Quality
 
-[ ] In progress 
-[ ] Alpha 
-[ ] Beta 
-[ ] Production 
+- [ ] In progress 
+- [ ] Alpha 
+- [ ] Beta 
+- [ ] Production 
+
+
+## QA notes
+
+<!-- please remember to add any QA notes here *and* to the corresponding JIRA story -->
+
